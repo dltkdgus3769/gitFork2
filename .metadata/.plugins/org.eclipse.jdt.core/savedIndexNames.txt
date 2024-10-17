@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\gitFork2\.metadata\.plugins\org.eclipse.jdt.core
+3596044444.index
+318609694.index
+1865797976.index
